@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": "3815",
+      "name": "phu123",
+      "email": "phu@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "3c42",
+      "name": "test1",
+      "email": "test1@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "530d",
+      "name": "test02",
+      "email": "test02@gmai;.com",
+      "password": "12345"
+    },
+    {
+      "id": "a400",
+      "name": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "999f",
+      "name": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "eff0",
+      "name": "abc",
+      "email": "abc@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "8b92",
+      "name": "ABCDE",
+      "email": "ABCDE@GMAIL.COM",
+      "password": "0123456"
+    },
+    {
+      "id": "76e4",
+      "name": "phu1",
+      "email": "phu1@gmail.com",
+      "password": "$2b$10$FS0cWRNfYVv3t9hduDIpaekRXRtPWvSbH68c7sUVWM2fpm8dMbwcO"
+    },
+    {
+      "id": "9b56",
+      "name": "phu2",
+      "email": "phu2@gmail.com",
+      "password": "$2b$10$TemtBOCFNKvJIHXVFp0Q8uPM1XzDGB2TDJKI2BY7jrNFAkBu2Cgve"
+    }
+  ]
+}
